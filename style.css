@@ -123,6 +123,8 @@ body {
 	line-height: 2rem;
 
 	opacity: 70%;
+
+	margin-top: 1.8rem;
 }
 
 .testimonials__img_border-pink {
@@ -149,13 +151,6 @@ body {
 }
 .testimonials__text_light-gray {
 	color: #ecf2f8;
-}
-
-.testimonials__text_margin-top-24 {
-	margin-top: 2.4rem;
-}
-.testimonials__text_margin-top-16 {
-	margin-top: 1.6rem;
 }
 
 .attribution {
