@@ -37,6 +37,15 @@ body {
 	border-radius: 8px;
 
 	padding: 2.6rem 3.2rem;
+
+	transition: all 0.3s;
+
+	box-shadow: 2rem 4rem 5rem -4rem #48556a80;
+}
+
+.testimonials__card:hover {
+	transform: translateY(-1rem);
+	box-shadow: 4rem 6rem 5rem -4rem #48556a80;
 }
 
 .testimonials__first-card {
@@ -158,6 +167,8 @@ body {
 	text-align: center;
 
 	margin: 2.4rem;
+
+	position: relative;
 }
 .attribution a:visited,
 .attribution a:link {
